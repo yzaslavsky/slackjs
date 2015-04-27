@@ -1,6 +1,6 @@
 {
   "name": "slackwrapper",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "node.js wrapper for slack API",
   "main": "index.js",
   "scripts": {
