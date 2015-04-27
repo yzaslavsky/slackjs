@@ -1,7 +1,7 @@
 {
-  "name": "slackjs",
+  "name": "node-slack",
   "version": "0.0.1",
-  "description": "Wrapper for slack API",
+  "description": "node.js wrapper for slack API",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
