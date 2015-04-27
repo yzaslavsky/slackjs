@@ -1,5 +1,5 @@
 {
-  "name": "node-slack",
+  "name": "slackwrapper",
   "version": "0.0.1",
   "description": "node.js wrapper for slack API",
   "main": "index.js",
