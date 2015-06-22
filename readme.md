@@ -1,5 +1,6 @@
 Example of usage:
 
+```
 var api = require("slackwrapper");
 
 var s =  new api.slack("PUT-HERE-YOUR-API-KEY");
@@ -10,4 +11,4 @@ s.channelByName(
         });
     }
 );
-
+```
